@@ -1,4 +1,4 @@
-# PrivacyPolicy
+# Privacy Policy
 
 Intrigue Games built the Xal's Path app as a Free app. This SERVICE is provided by Intrigue Games at no cost and is intended for use as is.
 
